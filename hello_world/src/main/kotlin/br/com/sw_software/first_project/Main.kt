@@ -1,4 +1,4 @@
-package br.com.sw_software
+package br.com.sw_software.first_project
 
 //fun main() {
 //  println("Hello, world!!")
